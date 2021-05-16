@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.shields.io/github/stars/WdvOps/App-weather) ![](https://img.shields.io/github/forks/WdvOps/App-weather) ![GitHub followers](https://img.shields.io/github/followers/WdvOps?style=social)
+![](https://img.shields.io/github/stars/WdvOps) ![](https://img.shields.io/github/forks/WdvOps/) ![GitHub followers](https://img.shields.io/github/followers/WdvOps?style=social)
