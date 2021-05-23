@@ -4,7 +4,7 @@
 
 ### Hi there 👋 Nice to Meet You! <br>
 
- - 🔭 I’m currently studying Systems Analysis and Development at University Paulista -Unip and bootcamper at Digital innovation one
+ - I’m student Systems Analysis and Development at University Paulista -Unip, and bootcamper at Digital innovation one
 
 I have worked professionally as a building electrician and computer technician for over 10 years, and I am in a career transition,
 seeking to specialize in the Angular framework
@@ -29,11 +29,16 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning ... <br> <br>
+- 🌱 I’m currently learning ... <br> <br> ### FrontEnd
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
 <img  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+
+### And backend 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <hr>
 
