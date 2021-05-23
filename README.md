@@ -58,6 +58,13 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://github.com/WdvOps/">
   <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+ 
+  
+  <a target="_blank" href="mailto:afreittaswill@gmail.com">
+  <img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+  
+
   
   
   
