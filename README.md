@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 
 <hr>
 
-![GitHub User's stars](https://img.shields.io/github/stars/WdvOps?affiliations=OWNER&style=social)![](https://img.shields.io/github/forks/WdvOps/) ![GitHub followers](https://img.shields.io/github/followers/WdvOps?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/WdvOps?affiliations=OWNER&style=social)<br>
+![](https://img.shields.io/github/forks/WdvOps/) ![GitHub followers](https://img.shields.io/github/followers/WdvOps?style=social)
 
 <hr>
 <br>
