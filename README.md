@@ -40,15 +40,14 @@ Here are some ideas to get you started:
 
 
 <a target="_blank" href="https://www.linkedin.com/in/will-freittas/">
-  <img align="left" alt="LinkdeIN" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="24px" color="white" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5531982699558">
-  <img align="left" alt="Whatsapp" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="left" alt="Whatsapp" width="24px" color="white" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   
   
 <a target="_blank" href="https://github.com/WdvOps/">
-  <img align="left" alt="LinkdeIN" width="22px" color="white" src="https://icon-icons.com/pt/icone/pasta-azul-github/93417" />
+  <img align="left" alt="LinkdeIN" width="24px" color="white" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
   
   
- <img src="https://simpleicons.org/icons/angular.svg?style=white" />
