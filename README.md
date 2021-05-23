@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 ![](https://github.com/WdvOps?tab=stars) ![](https://img.shields.io/github/forks/WdvOps/) ![GitHub followers](https://img.shields.io/github/followers/WdvOps?style=social)
 
-
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]
 
