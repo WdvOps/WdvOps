@@ -4,7 +4,7 @@
 
 ### Hi there 👋 Nice to Meet You! <br>
 
-I am a student of Systems Analysis and Development at University Paulista -Unip and bootcamper at Digital innovation one
+ - 🔭 I’m currently studying Systems Analysis and Development at University Paulista -Unip and bootcamper at Digital innovation one
 
 I have worked professionally as a building electrician and computer technician for over 10 years, and I am in a career transition,
 seeking to specialize in the Angular framework
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-- 👯 In the free time ... ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+- 👯In my spare time I have fun with... ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 <br>
 
