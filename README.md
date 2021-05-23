@@ -2,7 +2,13 @@
 ![alt text](https://i.ibb.co/D1z3Pz1/wall-Git-Hub.png)
 
 
-### Hi there 👋 Nice to Meet You!
+### Hi there 👋 Nice to Meet You! <br>
+
+I am a student of Systems Analysis and Development at University Paulista -Unip and bootcamper at Digital innovation one
+
+Tech lover is addicted to the Game of thrones saga
+
+Professional in career transition, seeking to specialize in the Angular framework
 
 
 
@@ -23,11 +29,6 @@ Here are some ideas to get you started:
 
 
 
-
-![](https://github.com/WdvOps?tab=stars) ![](https://img.shields.io/github/forks/WdvOps/) ![GitHub followers](https://img.shields.io/github/followers/WdvOps?style=social)
-
-
-
 - 🌱 I’m currently learning ... <br> <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
@@ -39,6 +40,10 @@ Here are some ideas to get you started:
 - 👯 In the free time ... ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 <br>
+
+
+![](https://github.com/WdvOps?tab=stars) ![](https://img.shields.io/github/forks/WdvOps/) ![GitHub followers](https://img.shields.io/github/followers/WdvOps?style=social)
+
 <hr>
 <br>
 
