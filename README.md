@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 - 👯 In the free time ... ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-
+<span align="center">
 <a target="_blank" href="https://www.linkedin.com/in/will-freittas/">
   <img align="left" alt="LinkdeIN"  color="white" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -49,5 +49,6 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://github.com/WdvOps/">
   <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+  </span>
   
   
