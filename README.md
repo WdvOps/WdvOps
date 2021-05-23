@@ -1,6 +1,5 @@
 
-
-    ![alt text](https://i.ibb.co/tBSssdC/wall-Git-Hub.png)
+![alt text](https://ibb.co/PrFBsFr)
 
 
 ### Hi there 👋
