@@ -6,10 +6,10 @@
 
 I am a student of Systems Analysis and Development at University Paulista -Unip and bootcamper at Digital innovation one
 
+I have worked professionally as a building electrician and computer technician for over 10 years, and I am in a career transition,
+seeking to specialize in the Angular framework
+
 Tech lover is addicted to the Game of thrones saga
-
-Professional in career transition, seeking to specialize in the Angular framework
-
 
 
 <!--
