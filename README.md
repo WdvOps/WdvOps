@@ -43,4 +43,8 @@ Here are some ideas to get you started:
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5531982699558">
   <img align="left" alt="Whatsapp" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-
+  
+  
+<a target="_blank" href="https://github.com/WdvOps/">
+  <img align="left" alt="LinkdeIN" width="22px" color="white" src="https://icon-icons.com/pt/icone/pasta-azul-github/93417" />
+</a>
