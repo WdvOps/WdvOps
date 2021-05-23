@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image]({https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white})
+![image]({})
 
+
+<img src="{https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white}" />
 
 ![](https://github.com/WdvOps?tab=stars) ![](https://img.shields.io/github/forks/WdvOps/) ![GitHub followers](https://img.shields.io/github/followers/WdvOps?style=social)
