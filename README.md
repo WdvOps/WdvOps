@@ -1,5 +1,5 @@
 # Software engineer under construction
-![alt text](https://i.ibb.co/D1z3Pz1/wall-Git-Hub.png)
+![alt text](https://i.ibb.co/4WkcRLs/wall-Git-Hubupdt.png)
 
 
 ### Hi there 👋 Nice to Meet You! <br>
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ### And backend 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
 <hr>
 
