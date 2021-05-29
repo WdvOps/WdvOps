@@ -4,7 +4,7 @@
 ![alt text](https://i.ibb.co/4WkcRLs/wall-Git-Hubupdt.png)
 
 
-### Hi there 👋 Nice to Meet You! <br> I'm Will
+### Hi there 👋 Nice to Meet You! <br> I'm Will Freittas
 A passionate frontend developer from Minas Gerais - Belo Horizonte - Brazil
 <br> <hr>
 <a target="_blank" href="https://www.linkedin.com/in/will-freittas/">
