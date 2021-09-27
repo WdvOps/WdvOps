@@ -5,7 +5,7 @@
 
 
 ### Hi there 👋 Nice to Meet You! <br> I'm Will Freittas
-A passionate frontend developer from Minas Gerais - Belo Horizonte - Brazil
+A passionate fullstack developer from Minas Gerais - Belo Horizonte - Brazil
 <br> <hr>
 <a target="_blank" href="https://www.linkedin.com/in/will-freittas/">
   <img align="left" alt="LinkdeIN"  color="white" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
