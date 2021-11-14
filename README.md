@@ -25,7 +25,7 @@ A passionate fullstack developer from Minas Gerais - Belo Horizonte - Brazil
 </a>
   <br> <hr>
 
-     Oi, eu sou o William Freittas, ou só Will, tenho 45 anos, e sou apaixponado por aprendizados.
+<p> Oi, eu sou o William Freittas, ou só Will, tenho 45 anos, e sou apaixponado por aprendizados.
      Como artista nato  amo desenhar, pintar, esculpir e as vezes até arrisco algumas notas quando
    encontro um violãozinho dando sopa por aí...rs
      Sou louco com tecnologias, e dentre algumas habilidades que tenho, possuo grande desenvolvtura com
@@ -34,7 +34,7 @@ A passionate fullstack developer from Minas Gerais - Belo Horizonte - Brazil
    criando logos, folders e essas coisas que a gente consegue fazer com um pouco de habilidade e prática.
     Aspirante a desenvolvedor frontend, estou em busca de aprendizagem e evolução para atuar como desenvolvedor web...
     E vou conseguir!
-
+  </p>
 
 <!--
 **WdvOps/WdvOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
