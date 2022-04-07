@@ -28,7 +28,7 @@ A passionate fullstack developer from Minas Gerais - Belo Horizonte - Brazil
 <p> Oi, eu sou o William Freittas, ou só Will, tenho 45 anos, e sou apaixponado por aprendizados.
      Como artista nato  amo desenhar, pintar, esculpir e as vezes até arrisco algumas notas quando
    encontro um violãozinho dando sopa por aí...rs
-     Sou louco com tecnologias, e dentre algumas habilidades que tenho, possuo grande desenvolvtura com
+     Sou louco com tecnologias, e dentre algumas habilidades que tenho, possuo grande desenvoltura com
    ferramentas gráficas, como o CorelDraw, InkScape e Phothoshop,
    que utilizo na maior parte do meu tempo livre como hobby, e, quando há oportunidades, faço uma graninha,
    criando logos, folders e essas coisas que a gente consegue fazer com um pouco de habilidade e prática.
